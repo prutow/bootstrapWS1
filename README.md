@@ -1,2 +1,2 @@
 # bootstrapWS1
-another Bootstrap project
+Another Bootstrap project. Working on my front-end skills.
